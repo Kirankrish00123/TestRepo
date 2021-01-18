@@ -5,7 +5,8 @@ import org.testng.annotations.Test;
 public class Testpage {
 	
 	@Test
-	public void loginpage(){	
+	public void loginpage()
+	{	
 		
 	}
 
